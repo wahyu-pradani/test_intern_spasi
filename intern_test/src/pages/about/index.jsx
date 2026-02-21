@@ -71,7 +71,7 @@ export default function About() {
               duration={500}
               className="nav-link cursor-pointer font-jakarta-sans text-[16px] text-neutral-50 transition-all duration-500 ease-in-out hover:font-bold"
             >
-              Tentang Kami
+              Tentang SPASI
             </Link>
           </li>
           <li className="nav-item">
